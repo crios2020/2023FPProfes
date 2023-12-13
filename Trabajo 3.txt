@@ -1,0 +1,11 @@
+Trabajo 3
+Entrega para el 12/02/2024
+
+https://tn.com.ar/sociedad/2021/02/08/imc-que-es-y-como-se-calcula/?outputType=amp
+
+1 - Leer la nota
+2 - Armar un programa HTML JS CSS Bootstrap sobre dichas notas.
+        a - Determinar cuales son los datos de entrada para el imc.
+        b - Crear una función para calcular el IMC.
+        c - Crear una función para calcular estado (Delgadez - Normal - Obesidad etc)
+        d - Informar IMC y Estado.
